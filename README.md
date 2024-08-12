@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @highmukul
-- 👀 I’m interested in  cyber security, ethical hacking, web and app development
-- 🌱 I’m currently B.Tech Information Technology undergraduate. 
+- 👀 I’m interested in web and app development, DevOps and SDE roles.
+- 🌱 I’m currently B.Tech Information Technology final year student.
 - 💞️ I’m looking to collaborate on web and app development projects, cyber security talks.
 - 📫 Reach me on instagram, linkedIn and Github as " highmukul ".
 
